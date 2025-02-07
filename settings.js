@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "",
-// add your Session Id 
+// MALVIN-XD~UwZHEYiJ#JUj_MQjfxSzchO46fU1g0ECh0xy4XCoaA5mlAMzhhco
 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
@@ -56,7 +56,7 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by ᴍᴀʟᴠɪɴ xᴅ 🚀🔥*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by freaky 🚀🔥*",
 // set the auto reply massage on status reply    
 
 MODE: process.env.MODE || "public",
